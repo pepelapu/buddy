@@ -1,0 +1,2 @@
+# buddy
+Idea-memory
